@@ -1,0 +1,62 @@
+.menu_bar {
+    position:sticky; 
+    top:0; 
+    z-index:9999;
+    font-family: fantasy;
+}
+body {
+    text-align: center;
+    background: linear-gradient(aquamarine 0%, antiquewhite 30%, violet 50%, cornflowerblue 80%, lavender 100% );
+}
+#contact iframe
+{
+    width: 100%;
+}
+
+.field_contents {
+    border: 5px dotted darkcyan;
+    padding: 10px;
+}
+.cafe_contents {
+    border: 5px dotted darkcyan;
+    padding: 10px;
+}
+.multi_contents {
+    border: 5px dotted darkcyan;
+    padding: 10px;
+}
+
+#life {
+    margin-bottom: 20px;
+}
+.kin_head {
+    font-size : 25px; 
+    text-shadow: 2px 2px goldenrod;
+    font-family: cursive; 
+    padding: 12px; 
+    border-radius: 20px;
+    border : 5px ridge ghostwhite; 
+}
+.staffs_head {
+    font-size : 25px; 
+    text-shadow: 2px 2px goldenrod;
+    font-family: cursive; 
+    padding: 12px; 
+    border-radius: 20px;
+    border : 5px ridge ghostwhite; 
+}
+.staffs_head i {
+    float: right;
+    margin-top: 7px;
+}
+.stuff_text span {
+    color: orange;
+    font-size: 25px; 
+
+}
+.stuff_text {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#new {
+    margin-bottom: 100px;
+}
